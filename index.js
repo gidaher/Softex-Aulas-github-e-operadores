@@ -32,5 +32,5 @@ console.log (raiz)
 console.log(x1)
 console.log(x2)
 
-
+console.log(x4)
 
